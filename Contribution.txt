@@ -1,0 +1,3 @@
+Juichang Lu - works on the first part of the assignment - k mean unsupervised clustering. He is responsible for whatever is related to this part (report analysis, evaluation of the code and finding the best k value)
+
+Tianze Ma - works on the second part of the assignment - k nearest neighbor supervised learning. He is responsible for whatever is related to this part (report anlaysis, evaluation of the code)
